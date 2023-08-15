@@ -20,3 +20,9 @@ output = ["Open", "Open", "Senior", "Open", "Open", "Senior"]
 - ✅ DONE
 
 ## Backlog
+- ⚠ TODO '[[18, 20],[45, 2],[61, 12],[37, 6],[21, 21],[78, 9]] should return ['Open', 'Senior', 'Open', 'Senior']' 
+- 
+- ⚠ TODO '[[45, 12],[55, 21],[19, -2],[104, 20]] should return ['Open', 'Senior', 'Open', 'Senior']'
+- 
+- ⚠ TODO '[[3, 12],[55, 1],[91, -2],[53, 23]] should return ['Open', 'Open', 'Open', 'Open']'
+- ⚠ TODO '[[59, 12],[55, -1],[12, -2],[12, 12]] should return ['Senior', 'Open', 'Open', 'Open']'
