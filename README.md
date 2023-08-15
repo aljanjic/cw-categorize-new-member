@@ -25,4 +25,4 @@ output = ["Open", "Open", "Senior", "Open", "Open", "Senior"]
 - ✅ "[[45, 12],[55, 21],[19, -2],[104, 20]] should return ['Open', 'Senior', 'Open', 'Senior']"
 - 
 - ✅ "[[3, 12],[55, 1],[91, -2],[53, 23]] should return ['Open', 'Open', 'Open', 'Open']"
-- ⚠ TODO "[[59, 12],[55, -1],[12, -2],[12, 12]] should return ['Senior', 'Open', 'Open', 'Open']"
+- ✅ TODO "[[59, 12],[55, -1],[12, -2],[12, 12]] should return ['Senior', 'Open', 'Open', 'Open']"
