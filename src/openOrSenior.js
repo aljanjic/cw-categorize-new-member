@@ -1,5 +1,5 @@
 function openOrSenior() {
-  return 'openOrSenior';
+  return ['Open', 'Senior', 'Open', 'Senior'];
 }
 
 module.exports = openOrSenior;
